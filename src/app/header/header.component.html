@@ -1,0 +1,25 @@
+<header>
+  <div class="toggle" (click)="navOpened()">
+    <i
+      class="fas fa-2x"
+      [ngClass]="{ 'fa-bars': !isNavOpen, 'fa-times': isNavOpen }"
+    ></i>
+  </div>
+  <nav>
+    <ul class="nav nav--hightlighted" [ngClass]="{ nav__open: isNavOpen }">
+      <li class="nav__brand">
+        <a href="#"> Marc <span class="gray">C</span>uenca</a>
+      </li>
+      <li class="nav__item"><a (click)="scroll('about')">Sobre mí</a></li>
+      <li class="nav__item">
+        <a (click)="scroll('skill')" #skill>Tecnologias</a>
+      </li>
+      <li class="nav__item">
+        <a (click)="scroll('portfolio')" #portfolio>Proyectos</a>
+      </li>
+      <li class="nav__item">
+        <a (click)="scroll('contato')" #contato>Contacto</a>
+      </li>
+    </ul>
+  </nav>
+</header>

@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Travel Notes",
+    "paragraph": "Proyecto para compartir notas de viaje con usuarios",
+    "tools": [
+      {
+        "title": "NodeJS"
+      },
+      {
+        "title": "ReactJS"
+      },
+      {
+        "title": "MySql"
+      },
+      {
+        "title": "BootStrap"
+      }
+    ],
+    "img": "./assets/img/il_fullxfull.514518111_i9wx.webp",
+    "github": "https://github.com/marcsalou23/Travel-Notes"
+  },
+  {
+    "title": "Trivial Quiz",
+    "paragraph": "Concurso Trivial donde el usuario puede responder 50 preguntas",
+    "tools": [
+      {
+        "title": "ReactJS"
+      },
+      {
+        "title": "NodeJS"
+      },
+      {
+        "title": "CSS"
+      }
+    ],
+    "img": "./assets/img/1696949207120.jfif",
+    "github": "https://github.com/marcsalou23/Juego-Trivial-Quiz"
+  },
+  {
+    "title": "Previsió Meteorlógica",
+    "paragraph": "Web que detecta tu geolocalización y te dice una previsión de la meteo de 8h",
+    "tools": [
+      {
+        "title": "HTML"
+      },
+      {
+        "title": "API"
+      },
+      {
+        "title": "CSS"
+      }
+    ],
+    "img": "./assets/img/descarga.jfif",
+    "github": "https://github.com/marcsalou23/Meteo-Forecast"
+  }
+]
