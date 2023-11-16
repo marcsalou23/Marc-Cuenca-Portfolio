@@ -1,6 +1,6 @@
 # Portafolio
 
-Este es mi portafolio desarrollado con Angular. Puedes acceder a él en ésta url marc-cuenca-portfolio.vercel.app/
+Este es mi portafolio desarrollado con Angular. Puedes acceder a él en ésta url (marc-cuenca-portfolio.vercel.app/)
 ![web](https://i.ibb.co/gjJThG1/Screenshot-2023-11-16-121944.png)
 ## Instalación
 
