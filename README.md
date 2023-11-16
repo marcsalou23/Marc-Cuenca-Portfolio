@@ -1,7 +1,7 @@
 # Portafolio
 
 Este es mi portafolio desarrollado con Angular.
-![alt text](https://drive.google.com/file/d/17c2QBamOLczCx_sOM9-O150LbeXgTk0v/view?usp=drive_link)
+![web]([https://drive.google.com/file/d/17c2QBamOLczCx_sOM9-O150LbeXgTk0v/view?usp=drive_link](https://ibb.co/ZLx873s))
 ## Instalación
 
 - [Instalar Node.js](https://nodejs.org/es/).
