@@ -1,35 +1,35 @@
-# Portfolio
+# Portafolio
 
-This is my portfolio developed with Angular
+Este es mi portafolio desarrollado con Angular.
 
-## Install
+## Instalación
 
-- [Install Node.js](https://nodejs.org/en/).
-- Install [Angular CLI: 13.2.4](https://www.npmjs.com/package/@angular/cli/v/13.2.4).
-  - Run `npm install -g @angular/cli` to install Globally or `npm install @angular/cli` to install locally. To install Install Specific Version (Example: 13.2.4) `npm install -g @angular/cli@13.2.4`.
-- Clone this project repository.
-- Run `npm install` from project directory..
-- Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+- [Instalar Node.js](https://nodejs.org/es/).
+- Instalar [Angular CLI: 13.2.4](https://www.npmjs.com/package/@angular/cli/v/13.2.4).
+  - Ejecuta `npm install -g @angular/cli` para instalar globalmente o `npm install @angular/cli` para instalar localmente. Para instalar una versión específica (Ejemplo: 13.2.4) usa `npm install -g @angular/cli@13.2.4`.
+- Clona el repositorio de este proyecto.
+- Ejecuta `npm install` desde el directorio del proyecto.
+- Ejecuta `ng build` para construir el proyecto. Los archivos de construcción se almacenarán en el directorio `dist/`. Usa la bandera `-prod` para una construcción de producción.
 
-## Development server
+## Servidor de Desarrollo
 
-Run `ng serve --open` to open the project automatically in the url `http://localhost:4200`
+Ejecuta `ng serve --open` para abrir automáticamente el proyecto en la URL `http://localhost:4200`
 
-![portfolio](./src/assets/img/portfolio.png)
+![portafolio](./src/assets/img/portafolio.png)
 
-## Code scaffolding
+## Estructura de Código
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Ejecuta `ng generate component nombre-componente` para generar un nuevo componente. También puedes usar `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Running the test
+## Ejecución de Pruebas Unitarias
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io/latest/index.html).
+Ejecuta `ng test` para ejecutar las pruebas unitarias mediante [Karma](https://karma-runner.github.io/latest/index.html).
 
-## Running end-to-end test
+## Ejecución de Pruebas End-to-End
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/#/).
+Ejecuta `ng e2e` para ejecutar las pruebas end-to-end mediante [Protractor](http://www.protractortest.org/#/).
 
-## Build With
+## Construido Con
 
 - HTML5/CSS3
 - Font Awesome-free
