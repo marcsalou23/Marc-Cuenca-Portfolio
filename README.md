@@ -15,19 +15,10 @@ Este es mi portafolio desarrollado con Angular.
 
 Ejecuta `ng serve --open` para abrir automáticamente el proyecto en la URL `http://localhost:4200`
 
-![portafolio](./src/assets/img/portafolio.png)
-
 ## Estructura de Código
 
 Ejecuta `ng generate component nombre-componente` para generar un nuevo componente. También puedes usar `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Ejecución de Pruebas Unitarias
-
-Ejecuta `ng test` para ejecutar las pruebas unitarias mediante [Karma](https://karma-runner.github.io/latest/index.html).
-
-## Ejecución de Pruebas End-to-End
-
-Ejecuta `ng e2e` para ejecutar las pruebas end-to-end mediante [Protractor](http://www.protractortest.org/#/).
 
 ## Construido Con
 
@@ -36,8 +27,8 @@ Ejecuta `ng e2e` para ejecutar las pruebas end-to-end mediante [Protractor](http
 - SCSS
 - Angular Animation
 - TypeScript
-- Angular CLI: 13.2.4
-- Node: 10.15.1
+- Angular CLI: 
+- Node: 
 - TSLint
 - ES6
 - Karma
