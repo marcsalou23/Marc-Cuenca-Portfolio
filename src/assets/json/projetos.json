@@ -1,7 +1,7 @@
 [
   {
-    "title": "Travel Notes",
-    "paragraph": "Proyecto para compartir notas de viaje con usuarios",
+    "title": "Albiol-Jepeto ",
+    "paragraph": "Página web para una empresa que se dedica a proporcionar un espacio seguro y conveniente para el estacionamiento de caravanas.",
     "tools": [
       {
         "title": "NodeJS"
@@ -16,8 +16,68 @@
         "title": "BootStrap"
       }
     ],
-    "img": "./assets/img/il_fullxfull.514518111_i9wx.webp",
+    "img": "./assets/img/2.png",
+    "Enlace": "https://albiol-jepeto.vercel.app"
+  },
+  {
+    "title": "Alojamientos Costa Daurada",
+    "paragraph": "Este repositorio alberga una aplicación web que ofrece un mapa interactivo de la encantadora región de la Costa Daurada.",
+    "tools": [
+      {
+        "title": "NodeJS"
+      },
+      {
+        "title": "HTML5"
+      },
+      {
+        "title": "OpenLayers"
+      },
+      {
+        "title": "Leaflet"
+      }
+    ],
+    "img": "./assets/img/68747470733a2f2f73352e67696679752e636f6d2f696d616765732f53524e79522e676966.gif",
+    "github": "https://alojamientos-costa-daurada.vercel.app/"
+  },
+  {
+    "title": "Travel Notes",
+    "paragraph": "Travel Notes es una aplicación web que permite a los usuarios compartir sus experiencias de viaje, recomendaciones y conocimientos con otros viajeros ",
+    "tools": [
+      {
+        "title": "NodeJS"
+      },
+      {
+        "title": "ReactJS"
+      },
+      {
+        "title": "MySql"
+      },
+      {
+        "title": "BootStrap"
+      }
+    ],
+    "img": "./assets/img/68747470733a2f2f73352e67696679752e636f6d2f696d616765732f53524e41652e676966.gif",
     "github": "https://github.com/marcsalou23/Travel-Notes"
+  },
+  {
+    "title": "Conversor de coordenadas Geográficas",
+    "paragraph": "Aplicación simple diseñada para convertir coordenadas geográficas entre diferentes sistemas de referencia espacial (EPSG)",
+    "tools": [
+      {
+        "title": "NodeJS"
+      },
+      {
+        "title": "ReactJS"
+      },
+      {
+        "title": "MySql"
+      },
+      {
+        "title": "BootStrap"
+      }
+    ],
+    "img": "./assets/img/ezgif-5-a24c3e3472.gif",
+    "github": "https://conversor-de-coordenadas-geograficas.vercel.app/"
   },
   {
     "title": "Trivial Quiz",
@@ -50,7 +110,7 @@
         "title": "CSS"
       }
     ],
-    "img": "./assets/img/descarga.jfif",
-    "github": "https://github.com/marcsalou23/Meteo-Forecast"
+    "img": "./assets/img/68747470733a2f2f73352e67696679752e636f6d2f696d616765732f53523937592e676966.gif",
+    "github": "https://meteo-forecast.vercel.app"
   }
 ]
