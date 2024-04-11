@@ -97,20 +97,17 @@
     "github": "https://github.com/marcsalou23/Juego-Trivial-Quiz"
   },
   {
-    "title": "Previsió Meteorlógica",
-    "paragraph": "Web que detecta tu geolocalización y te dice una previsión de la meteo de 8h",
+    "title": "Albiol Jepeto",
+    "paragraph": "Proyecto web para una casa rural turística usando Angular: Reserva, información local, y experiencias personalizadas para visitantes y propietarios.",
     "tools": [
       {
-        "title": "HTML"
-      },
-      {
-        "title": "API"
+        "title": "Angular"
       },
       {
         "title": "CSS"
       }
     ],
-    "img": "./assets/img/68747470733a2f2f73352e67696679752e636f6d2f696d616765732f53523937592e676966.gif",
-    "github": "https://meteo-forecast.vercel.app"
+    "img": "./assets/img/Captura de pantalla 2024-03-07 122358.png",
+    "github": "https://jepeto-albiol-hmfy.vercel.app/"
   }
 ]
